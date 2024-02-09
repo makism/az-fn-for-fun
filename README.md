@@ -1,5 +1,7 @@
 # az-fn-for-fun
 
+Everything is for local-only development ;)
+
 ## Azurite
 
 Install Azure Storage Emulator using Docker:
@@ -12,4 +14,4 @@ docker run \
 
 ## Azure Data Explorer
 
-Use [Azure Data Explorer](https://azure.microsoft.com/en-us/products/storage/storage-explorer) to initialize the Queue, nd fetche the connection string.
+Use [Azure Data Explorer](https://azure.microsoft.com/en-us/products/storage/storage-explorer) to initialize the Queue, and fetch the connection string.
